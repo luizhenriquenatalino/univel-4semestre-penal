@@ -1,0 +1,56 @@
+Processo Civil I. Tutela de conhecimento.
+
+Livro: Luiz R Wambler
+
+1) Atos processuais (art 188)
+  a) Conceito
+    - Manifestação de vontade (todos podem - juiz, réu)
+      - essa manifestação deve ser usada para modificar, criar, extinguir situações jurídicas.
+    
+  b) Solenidades (Formalidades)
+    - Regra: Independem de Forma (ideia de liberdade)
+    - Exceção: Disposição Legal, ou seja, quando o código exigir que haja formalidade. (Principio da instrumentalidade das formas)
+
+  c) Validades
+    - Praticado de outro modo, mas atinge a finalidade. -> Vai ser válido
+      - O código pede pra fazer de um jeito, mas faço de outro. Se atingo a mesma finalidade, então o Ato é válido.
+
+  d) Publicidade
+    - Regra: Permite o acesso
+    - Salvo "Segredo de justiça"
+        - Interesse públic ou social
+        - Família / ECA
+        - Intimidade
+        - Alguns casos da arbitragem (Estipulada)
+        Obs.: Mesmo nesses casos que envolvem segredo de justiça, o terceiro pode acessá-lo, desde que comprove o envolvimento (interesse). O Juiz decide se libera ou não.
+
+    Art 189 CPC
+    Art 5, LX, CF
+
+  e) Idioma (Vernáculo)
+    - Lingua Portuguesa
+    Art 13, CF
+    - Pode usar tradutor juramentado
+
+  f) Atos eletrônicos (lei 11419/2006)
+    - Vários sistemas: Justiça Federal - Eproc
+    - Princípios
+       - Publicidade (Não é tão ampla)
+       - Acesso a computadores para os advogados que os não tenham. Também disponibilizar para os deficientes.
+    - CNJ regula o processo eletrônico
+    - Art 193 a 199
+
+  g) Partes (autor e réu)
+    * Obtenção (Quero obter alguma coisa dentro do processo)
+      - Postulatório: Faço um pedido expresso para o juiz.
+      - Evento físico: Pedidos implícitos. (Coisas que faço no processo que não peço expressamente, mas nas entrelinhas acontece). Ex. Indenização, implicitamente estão os juros.
+      - Instrutórios: Produção de provas. 
+        - Com o objetivo de convencer o juiz.
+        - Reforçar os argumentos
+
+    * Dispositivos
+      - Unilaterais: 1 vontade
+          Ex.: Autor não recorre.
+      - Bilaterais: 2 ou + vontades ( Ex. Submissão, desistência, acordos)
+
+    Regra: Atos das partes produzem efeitos imediatos, SALVO desistência (depende de uma chancela do juiz - homologação)
