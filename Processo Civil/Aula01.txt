@@ -54,3 +54,53 @@ Livro: Luiz R Wambler
       - Bilaterais: 2 ou + vontades ( Ex. Submissão, desistência, acordos)
 
     Regra: Atos das partes produzem efeitos imediatos, SALVO desistência (depende de uma chancela do juiz - homologação)
+  
+  h) atos do juiz (202 a 205)
+    
+    DIRETOS
+      -> Não pronunciamentos
+          Ex.: Oitivas de testemunhas
+
+      -> Pronunciamentos  
+          1) Decisórios
+            1.1) Sentença
+                 Para o código de CPC, sentença é um pronunciamento do juiz de natureza decisória, salvo procedimento especial com base nos artigo 485 ou 487.
+                 Que põe fim à fase cognitiva do procedimento comum ou extingue a execução.     
+
+                                            $ = vários atos processuais  
+                 (Petição inicial) ---$----$----$----$-----$-----------|fim de uma fase (sentença)|----$----$----$----$----$----$----(encerramento do processo)
+                                            fase de conhecimento
+
+            1.2) Decisão Interlocutória
+
+                  São decisões dos atos processuais dentro de uma fase.
+                    Ex. Decidir se pode ou não uma perícia
+
+          2) Não Decisório
+            2.1) Despacho
+                Desenvolvimento do processo. 
+
+          3) Impíretos
+            Atos meramentes ordinatórios
+              -> Escrivão (206 à 211)
+                        Delegação.
+
+          4) Lacuna
+            O Juiz não se exime de julgar alegando lacuna na legislação.
+            Usa-se de princípios, analogia, costumes, etc.
+
+            Obs.: É possível o juiz extinguir o processo sem resolução do mérito:
+                  Ex.: Quando o advogado coloca o réu errado (falha nas formalidade)
+          
+          5) Responsabilidade
+            Responde nos caso de Fraude ou Dolo
+            ou retarda, omite, recusa
+
+          6) Limites
+            O juíz não pode julgar e decidir aquilo que não entende.
+            O que coloca limite é o pedido.
+
+            -> É vedado ao juiz julgar {infra, ultra, estra} petita.
+
+
+    INDIRETOS
