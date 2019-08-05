@@ -2,7 +2,7 @@ Processo Civil I. Tutela de conhecimento.
 
 Livro: Luiz R Wambler
 
-1) Atos processuais (art 188)
+1) ATOS PROCESSUAIS (art 188)
   a) Conceito
     - Manifestação de vontade (todos podem - juiz, réu)
       - essa manifestação deve ser usada para modificar, criar, extinguir situações jurídicas.
@@ -100,7 +100,21 @@ Livro: Luiz R Wambler
             O juíz não pode julgar e decidir aquilo que não entende.
             O que coloca limite é o pedido.
 
-            -> É vedado ao juiz julgar {infra, ultra, estra} petita.
+            -> É vedado ao juiz julgar {infra (menos), ultra (mais), extra (fora)} petita.
+
+            Analisar que toda a causa de pedir tem que ser motivada e avaliada pelo juiz. Caso ele deixa de avaliar um ponto, poderia se encaixar em infra (menos).
+
+        2 GRAU: Tribunais
+          Regra Colegiado. Decisão do colegiado (Acórdão)
+          Exceção: Singular (Decisão Monocrática)
 
 
     INDIRETOS
+
+2) NEGÓCIOS JURÍDICOS PROCESSUAIS
+  -> Conceito: Poder de regular situações jurídicas processuais
+  -> Princípio do autoregramento da vontade
+      + Liberdade entre as partes
+      + Até onde eu posso negociar as coisas de âmbito procesual? os limites?
+
+      Classificação: Unilaterais, Bilaterias, plurilaterias, típicos e atípicos.
