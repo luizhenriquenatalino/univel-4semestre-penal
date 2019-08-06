@@ -19,14 +19,58 @@ Prestação negativa (não fazer)
 
 - Dto das obrigações
   - Conceito
+      Complexo de normas que rege relações jurídicas de ordem patrimonial que tem por objeto prestações de um sujeito em proveito de outro
+
   - Importância
+      Não haveria desenvolvimento econômico. 
+      Possibilita a transferência de riqueza, mudança no domínio do bem.
+
   - Características
      a) dtos relativos
+        Vinculam somente os sujeitos que participaram da obrigação jurídica prestacional
+
      b) dtos a uma prestação
      c) patrimonialidade
-- Dtos obrigacionais ou pessoais e relativos
+
+- Dtos obrigacionais ou pessoais e reais
   - dto pessoal / obrigacional
-  - dto relativo
+
+    Direito contra determinada pessoa, consiste em um vínculo jurídico pelo qual o sujeito ativo pode exigir do sujeito passivo determina prestação
+
+  - dto real
+    
+    Poder jurídico direto e imediato do titular sobre a coisa com exclusividade e contra todos
+
+Dtp pessoal/obrigação
+
+Sujeito Ativo - Prestação - Sujeito passivo
+
+Dto relativos
+
+Sujeito Ativo - domínio - coisa
+
+
+dtos
+    1) Não patrimoniais
+        Ex.:  Dtos da personalidade
+              Dtos de família
+
+    2) Patrimoniais (valor econômico)
+        2.1) Direitos pessoais/obrigações/crédito
+        2.2) Reais
+
+        Obs.: Teoria adotada: dualista
 
 - principais distincões:
 
+
+
+
+                    DIREITO PESSOAL                                                                    DIREITO REAL
+Objeto                Prestação                                                                           coisa
+Sujeito          Determináveis (sujeito ativo e passivo)                                          Indeterminado (apenas sujeito ativo)
+Duração           Transitória (surge e já extingue)                                                       Perpétua
+Formação           Surge pela vontade (ilimitada, apenas quanto à licitude)                        Somente a lei (Ex.: art 1225cc)
+Exercício         Exige intermediário (Sujeito Passivo)                                                 Incide s/ coisa
+Ação              Pode cobrar apenas do sujeito passivo                                               Contra todos (erga omnes) - contra qualquer pessoa (sequela)
+                      Res inter acta                      
