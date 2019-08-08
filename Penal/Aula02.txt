@@ -107,3 +107,5 @@ O sistema progressivo é adotado nos países civilizados com algumas modificaç�
 O Código Penal de 1940 adotou esse sistema art. 33, $2 CP
 
 § 2º - As penas privativas de liberdade deverão ser executadas em forma progressiva, segundo o mérito do condenado, observados os seguintes critérios e ressalvadas as hipóteses de transferência a regime mais rigoroso:
+
+Introduz os regimes (fechado, semi-aberto, aberto)
