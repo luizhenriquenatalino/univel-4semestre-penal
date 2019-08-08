@@ -77,9 +77,32 @@ Ação              Pode cobrar apenas do sujeito passivo                       
 
 
 - Figuras híbridas
-    a) Obrigações propter rem
+    a) Obrigações propter rem ou ob rem
+        É o que recai sobre uma pessoa por força de um determinado dto real. 
+
+        Ex. Condomínio ou cercas/muros
+
+        Natureza pessoal, podendo responder com todo o patrimônio.
+
     b) ônus reais
+
+        ônus (gravâme/débito/dívida) sobre a res (coisa)
+        Bem móvel ou imóvel que tem a dívida.
+
+        Ex.: Renda constituída sobre imóvel.
+
+        São obrigações que limitam o uso e goso da propriedade, constituindo gravames ou direitos oponíveis erga omnis.
+
+        Doutrinas novas elencam os impostos como ônus reais.
+
+        Quem deve é a coisa.
+
     c) obrigações com eficácia real
+
+        Obrigação com efeito pessoal que passa a ser real.
+        Ex.: Locação
+
+        São as que sem perderem o seu caráter de direito a uma prestação transmitem-se e são oponíveis à terceiro que adquira direito sobre determinado bem.
 
 - Evolução da teoria das obrigações
 
