@@ -49,4 +49,43 @@ caso concreto de acordo com as formalidades prescritas previamente em lei receba
 
 1.4 SISTEMAS PROCESSUAIS
 
+  a) Sistemas inquisitivo
+    Sistema no qual um só órgão cabe acusar e julga, ou seja, reúne na mesma pessoa (juiz) as funções de acusar, defender e julgar. O procedimento é escrito e sigiloso com o início da 
+  persecução penal, produção de provas e decisão pelo magistrado.
+    Foi banido definitivamente do nosso ordamento jurídico com a Constituição Federal de 1988, que conferiu ao ministério público a iniciativa exclusiva da ação penal pública.
+
+  b) Sistema acusatório
+    Nesse sistema existe a separação entre os órgãos imcumbidos de realizar a acusação e o julgamento, garantindo-se a imparcialidade do julgador bem como a plenitude de defesa e
+o tratamento igualitário entre as partes.
+    Adota-se no Brasil esse sistema, levando em consideração obrigatoriamente os princípios e direitos e garantias previstos na Constituição. No entanto, há algumas situações
+em que se observa que o sistema acusatório não é puro. Exemplo, juiz determinar de ofício a produção de provas.
+
+  c) Sistema misto
+    Caracteriza-se por contar com o processo dividido em três fases:
+      1) Investigação preliminar (inquérito policial)
+      2) Instrução probatória e inicial (inquisitiva, portanto secreta e escrita) tem-se instrução probatória a cargo do juiz
+      3) Procede-se ao julgamento com todas as garantias do sistema acusatório
+
+1.5 Ato jurídico e ato processual
+
+    Ato jurídico é uma declaração de vontade destinada a provocar uma consequência jurídica.
+    Ato processual é um ato jurídico praticado no curso do processo por alguns dos sujeitos processuais.
+
+1.6 aspectos das relações jurídica-processuais
+  * AUTÔNOMA. É autônoma a relação processual porque independe da relação jurídico-material que é o vínculo que se estabelece entre o Estado e o autor de algum crime. 
+  * PÚBLICA: Ela é pública, pois o juiz representa o Estado
+  * COMPLEXA: Pois a relação processual contém uma série de relações jurídicas-secundárias envolvendo juiz, partes, auxiliares da justiça e terceiros interessados
+  * PROGRESSIVA: O processo apresente sempre um aspecto de continuidade, desenvolvimento.
+  * UNITÁRIO: Pois em que pese atravessar diversas fases não perde a sua unidade
+
+1.7 Características para a atuação das partes no processo
+ 1.7.1 Capacidade processual
+  Qualquer pessoa pode ser parte material, porém para ingressar em juízo como parte, somente os maiores de 18 anos.
+
+ 1.7.2 Legitimidade processual
+  Traduz a ideia da pessoa com capacidade de atuar validamente em determinado processo
+
+ 1.7.3 Legitimidade para agir
+  Além da capacidade processual, para ser parte principal em um processo, é preciso que uma pessoa tenha legitimidade para agir. De um lado quem atem é o Estado (Legitimidade ativa) e
+  do outro, o autor da conduta punível (legitimidade passiva)
   
