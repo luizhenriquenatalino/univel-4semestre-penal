@@ -109,3 +109,31 @@ O Código Penal de 1940 adotou esse sistema art. 33, $2 CP
 § 2º - As penas privativas de liberdade deverão ser executadas em forma progressiva, segundo o mérito do condenado, observados os seguintes critérios e ressalvadas as hipóteses de transferência a regime mais rigoroso:
 
 Introduz os regimes (fechado, semi-aberto, aberto)
+
+Regime Fechado
+  -> Trabalho durante o dia, devendo recolher-se em isolamento durante o período noturno.
+
+Semiaberto (art 33, $1-b e 35 cp) -> regime intermediário
+  Penas maiores que 4 anos até 8 anos, primário (art 91 e 92 LEP)
+
+  -> Admissível o trabalho trabalho externo bem como a frequência em cursos profissionalizantes, de instrução, 2 grau ou superior (art 35, $2).
+
+  Frequência a cursos por meio de autorização de saída temporária (122 a 125 da LEP) -> sem vigilância direta (escolta)
+  Parágrafo único do artigo 122 LEP.
+  Monitoração eletrônica (art 146 b,c,d da LEP), tornozeleira ou pulseira c/ dispositivo de rastreamento baseado no sistema GPS que permite o monitoramento de sua posição
+geográfica por um estação central. Não é forma de cumprimento, mas método de vigilância.
+
+REGIME ABERTO (art 33, $1-c e 36 CP).
+  É o menos rigoroso. Baseia-se na autodisciplina e sendo de responsabilidade do condenado. Pena deve ser cumprida em casa de albergado ou estabelecimento adequado.
+  Penas menores ou iguais a 4 anos, réus primários. No regime aberto cabe cumprimento da pena no regime domiciliar (art 117 LEP)
+
+Conclusão
+Pena de reclusão                                      Pena de detenção
+Mais que 8 anos -> Fechado                            
+Mais que 4 até 8 anos -> Semiaberto               mais que 4 anos -> semiaberto
+Até 4 anos -> aberto                                até 4 anos -> aberto
+réu reincidente -> fechado                          reincidente -> semiaberto
+
+Se as circunstâncias do art 59 forem desfavoráveis, pode-se determinar regime mais gravoso do que aquele que seria cabível pela quantidade da pena.
+Súmula 269 -> se a pena não exceder a 4 anos, mesmo que reincidente -> semiaberto.
+Se a condenação anterior for a multa, pena de até 4 anos -> aberto.
