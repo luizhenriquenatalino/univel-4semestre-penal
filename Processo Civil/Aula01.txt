@@ -119,3 +119,94 @@ Livro: Luiz R Wambler
 
       Classificação: Unilaterais, Bilaterias, plurilaterias, típicos e atípicos.
       
+    
+    2.1) TÍPICOS:
+        Está previsto no código de processo cívil.
+
+      Ex.:  Cláusula de eleição de foro 
+            Suspensão do Processo
+            Renúncia
+            Escolha do Perito
+
+        Calendário Processual (art 191)
+          - Tem de existir as 3 vontades (autor + réu + juiz)
+          - Previsão de datas p/ alguns atos.
+          - Caso dê certo de construir um calendário, então torna-se vinculante. Ou seja, não faz sentido fazer um planejamento sem cumpri-lo
+            - Somente pode alterar em situações excepcionais.
+          
+          - Dispensa de intimações, pois já fez todas as previsões de datas.
+
+    2.2) ATÍPICOS: Cláusula Geral
+
+        2.2.1) Requisitos
+           
+           - Dto que admite autocomposição.
+           - Partes plenamente capazes
+
+        2.2.2) Controle: É feito pelo juíz (Ofício ou requerimento)
+
+          Ex de problemas: Nulidade, Abusivo em relação a um contrato de adesão
+
+        2.2.3) Situações Específicos
+          Várias formas de se fazer um negócio processual.
+            1) Procedimento
+            2) Ônus
+            3) Deveres
+            4) Poderes
+            5) Faculdades
+
+          Exemplo: uma pessoa pode renunciar o direito de recurso em um processo? Pode! 
+
+3) Tempo e lugar dos atos
+
+  3.1) Prática: 
+       Regra: dias úteis (6hrs às 20 hrs)
+       Obs: Hora do funcionamento do fórum
+       Exceção: Inspeção judicial 
+
+       Obs.: Você pode extrapolar o horário quando o adiamento causar prejuízo.
+
+  3.2) Oficial de justiça
+      -> Dias ñ úteis
+      -> Fora do horário
+
+        Ex.: { Intimação, citação, penhora}
+
+      Obs.: Pode fazer as atividades independentemente de autorização do juiz.
+
+  3.3) Petição física. 
+      Tem que observar o horário de funcionamento do fórum.
+
+  3.4) Petição Eletrônica.
+      Pode fazer até 24 hrs do último dia. Mais liberdade.
+
+  3.5) Férias forenses (art 93, XII, CF)
+      20/12 a 20/01
+      Em regra: Não se praticam atos. Prazo suspenso.
+  
+  3.6) Em que lugar pratica os atos processuais?
+      Em regra: Sede do juízo
+      Exceção: 
+        Interesse da justiça: Ex.: Inspeção do juiz
+        Natureza: Ex.: Carta precatória (pedir para outro juiz fazer tal coisa) - o próprio ato, por sua natureza, é feita fora.
+        Obstáculo: Testemunha enferma
+        Deferência: Ex.: Ouvir o presidente da república. Ele determina qual o dia, hora e lugar (art 454)
+
+  3.7) Prazos genéricos
+      Primeiro, procura na legislação.
+      Segundo, se a lei é omissa (não diz o prazo), então é o juiz que diz o prazo.
+      Terceiro, caso o juiz não fale e a legislação é omissa, então o prazo é de 5 dias.
+
+      obs.:Quando o juiz exigir o comparecimento, o prazo é no MÍNIMO (48 horas)
+      obs2.: autor e réu convencionam o prazo
+  
+  3.8) Obstáculo e prorrogação.
+      Prazo faltante será restituído. Ex.: o advogado pegava o processo físico e ficava de posse com o objetivo de prejudicar a outra parte. Quando o sistema fica indisponível.
+
+      Prorrogação por 2 meses em caso de calamidade pública ou difícil transporte.
+  
+  3.9) Preclusão
+      Perda da chance de se praticar um ato processual.
+      Ex.: Temporal: 
+
+
