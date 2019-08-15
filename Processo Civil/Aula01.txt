@@ -207,6 +207,75 @@ Livro: Luiz R Wambler
   
   3.9) Preclusão
       Perda da chance de se praticar um ato processual.
-      Ex.: Temporal: 
+      Ex.: Temporal: Prazo
 
+      Nem todos os prazos precluem
 
+    -> TEMPORAL (Prazo)
+    -> CONSUMATIVA (auto consumado - já foi feito ou realizado)
+    -> LÓGICA (vedação da contradição) - VENIRE CONTRA FACTUM PROPRIUM 
+    -> PUNITIVA - sanção. Ex. punição pela não devolução do processo (físico) com o objetivo de prejudicar a outra parte
+
+    Obs.: Vedação à preclusão por antecipação
+        Ex.: Protocolar o processo antes de iniciar a contagem do período, ou seja, ser celere.
+  
+  4.0) Prazos do juiz e escrivão
+      
+      JUIZ
+        Despacho: 5 dias
+        Decisões intelocutórias: 10 dias
+        Sentença: 30 dias
+
+        CNJ: Fiscaliza a atividade do juiz
+      
+      ESCRIVÃO
+        Conclusão - Enviar o processo para o juiz - 1 dia
+        Cumprimento: 5 dias
+
+  4.1) Dia não útil.
+      Sábado e Domingo
+      Feriado
+      Sem expediente forense
+  
+  4.2) Classificação
+      Prazo pode ser:
+          Comum - Começa contar ao mesmo tempo para ambas as partes. Ex.: 15 dias para trazer as testemunhas (autor e réu)
+          ou
+          Sucessivo - acontece em etapas. Ex.: 15 dias para o réu contestar. Termina os 15 dias, começa o tempo para o autor contestar.
+
+          Dilatórios - mais fácil para ser alterar
+            ou
+          peremptórios - ficil
+
+          Próprio - submete-se a preclusão (ates partes)
+            ou
+          Impróprio - não sofre preclusão (juiz)
+
+  4.3) Prazo em dobro
+      Quando estiverem presentes no processo: Ministério Público, defensoria pública, advocacia pública, núcleo de prática jurídica.
+      SALVO, PRAZO PRÓPRIO (específico para alguns dos entes acima)
+
+  4.4) Litisconsórcio
+    + Advogados distintos + escritórios diferentes + processo físico (papel) = prazo em dobro
+  
+  4.5) Contagem dos prazos.
+      Os prazos são contados somente em dias úteis.
+
+      Obs.: O dia do começo e término tem que ser em dia útil, caso aconteça, prorroga para o próximo dia útil.
+
+  4.6) Exclui-se o dia do começo e inclui-se o dia do final
+
+  4.7) Salvo disposição em contrário, o dia do começo será. (art 231)
+
+    Art. 231. Salvo disposição em sentido diverso, considera-se dia do começo do prazo:
+
+    I - a data de juntada aos autos do aviso de recebimento, quando a citação ou a intimação for pelo correio;
+    II - a data de juntada aos autos do mandado cumprido, quando a citação ou a intimação for por oficial de justiça;
+    III - a data de ocorrência da citação ou da intimação, quando ela se der por ato do escrivão ou do chefe de secretaria;
+    IV - o dia útil seguinte ao fim da dilação assinada pelo juiz, quando a citação ou a intimação for por edital;
+    V - o dia útil seguinte à consulta ao teor da citação ou da intimação ou ao término do prazo para que a consulta se dê, quando a citação ou a intimação for eletrônica;
+    VI - a data de juntada do comunicado de que trata o art. 232 ou, não havendo esse, a data de juntada da carta aos autos de origem devidamente cumprida, quando a citação ou a intimação se realizar em cumprimento de carta;
+    VII - a data de publicação, quando a intimação se der pelo Diário da Justiça impresso ou eletrônico;
+    VIII - o dia da carga, quando a intimação se der por meio da retirada dos autos, em carga, do cartório ou da secretaria. 
+
+    JUNTADA: Pegar algo/papel e grampiar no processo.

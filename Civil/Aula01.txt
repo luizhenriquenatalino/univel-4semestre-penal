@@ -109,8 +109,36 @@ Ação              Pode cobrar apenas do sujeito passivo                       
 - Posição do dto das obrigações no CC
 
 - A unificação do dto obrigacional
+    Várias tentativas legislativas de unificar (mercantil e empresarial)
 
 
 NOÇÕES GERAIS DE OBRIGAÇÕES
 
-- conceito de obrigação
+- Conceito de obrigação
+
+    É a relação jurídica de natureza transitória estabelecidas entre credor e devedor cujo objeto consiste numa prestação pessoal ecnonômica, positiva ou negativa, devida
+pelo segundo ao primeiro e garantindo lhe o adimplemento por meio de seu patrimônio.
+
+- Elementos constitutivos da relação jurídica obrigacional
+    a) Subjetivo/Pessoal
+        Diz respeito aos sujeitos. (tem que ser determinado ou determinavel)
+            a.1) Pessoa Natural
+            a.2) Pessoa Jurídica
+            a.3) Entes despersonalizados (Espólio/massa falida | sociedade de fato - começa com uma empresa sem realizar os atos formais antes)
+
+    b) Objetivo/Material
+        Prestação
+            Positiva (dar, fazer) {imediato (comportamento), mediato (bem da vida)}
+            Negativa (não fazer)
+
+        Tem que ser:
+            Lícito, 
+            possível (físico e jurídico), 
+            determinado/determinável,
+            passível de valoração econômica (pecuniário)
+
+
+    c) Vínculo Jurídico / Espiritual
+        liame é o vínculo espiritual entre o sujeito credo - prestação - devedor.
+
+- Diferença entre obrigação e responsabilidade

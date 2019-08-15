@@ -137,3 +137,56 @@ réu reincidente -> fechado                          reincidente -> semiaberto
 Se as circunstâncias do art 59 forem desfavoráveis, pode-se determinar regime mais gravoso do que aquele que seria cabível pela quantidade da pena.
 Súmula 269 -> se a pena não exceder a 4 anos, mesmo que reincidente -> semiaberto.
 Se a condenação anterior for a multa, pena de até 4 anos -> aberto.
+
+SAÍDAS
+
+1) Permissão de saída                                         
+
+-art 120 e 121 LEP                                       
+
+Beneficiários: presos em regime fechado, semiaberto e preso provisório.
+
+Hipóteses: Falecimento ou doença grave de ascendente, descendente, cônjuge ou irmão.
+           Tratamento prédio ou odontológico.
+
+Autoridade competente:  diretor do estabelecimento prisional e se negado o juiz
+
+Características: vigilância direta e pelo prazo estritamente necessário
+
+2) Saída temporária
+-art 122 a 125 LEP
+
+Beneficiário: somente o preso em regime semiabeto
+
+Hipóteses: visita à família, estudos ou atividades de ressocialização
+
+Autoridade competente: Juiz de exeucção, ouvidoria, MP e a autoridade penitenciária.
+
+Características: sem vigilância ou com vigilância indireta, por 7 dias (5 x ano) ou tempo do curso.
+
+PROGRESSO DE REGIME
+É a transferência de um regime mais rigoroso para regime mais brando, observando-se os critérios temporais e o mérito do condenado.
+Não se admite a progressão por salto. Sumula 491 STJ
+
+Requisitos para progração 
+ * Objetivo
+ * Subjetivo (mérito do sujeito)
+    -> Requisito subjetivo: atestado de boa conduta, bom comportamento carcerário (mérito).
+                          Até 2003 era demonstrado  com o exame criminológico
+                          Afastou-se a necessidade de exame criminológico
+
+    -> requisito especial - art 33, $4 para os crimes contra a administração
+
+      Tráfico de drogas: Homem primário (1/8), homem primário (2/5)
+
+
+ * requisito especial no caso de crima contra a adm pública.
+
+ Art 112 LEP:
+ Requisito Objetivo: cumprimento de 1/6 da pena. 
+ Se crime hediondo ou equiparado: a redação original da lei 8072 proibia a progressão. Decisão proferida (HC 82959). STF entendeu por inconstitucional e determinou a progressão
+
+ Nova disposição legal - lei 11.464/2007 que entrou em vigor em 29/03/2007. ( 2/5 se primário, 3/5 se reincidente - qualquer reincidência)
+
+ Art 33 § 4o O condenado por crime contra a administração pública terá a progressão de regime do cumprimento da pena condicionada à reparação do dano que causou,
+ ou à devolução do produto do ilícito praticado, com os acréscimos legais.

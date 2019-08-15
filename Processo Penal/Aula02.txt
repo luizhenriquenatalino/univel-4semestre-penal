@@ -89,3 +89,73 @@ em que se observa que o sistema acusatório não é puro. Exemplo, juiz determin
   Além da capacidade processual, para ser parte principal em um processo, é preciso que uma pessoa tenha legitimidade para agir. De um lado quem atem é o Estado (Legitimidade ativa) e
   do outro, o autor da conduta punível (legitimidade passiva)
   
+
+2.0 Princípios do Processo Penal
+  Celso Antonio Bandeira de Mello conceitua princípio: "por definição, mandamento nuclear de um sistema, verdadeiro alicerce dele, disposição fundamental que irradia sobre diferentes normas, compondo lhes
+  o espírito e servindo de critério para sua exata compreensão e inteligência, exatamente por definir a lógica e a racionalidade do sistema normativo no que lhe confere a tônica e lhe dá sentido harmônico"
+
+2.1) Princípio da celeridade
+  art 5, LXVIII, CF
+
+  LXXVIII - a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.  
+
+  Nem a constituição ou a lei infraconstitucional disse o que seria a duração razoável do processo, logo deve ser analisado à luz do princípio da razoabilidade. O Brasil adotou o critério
+do não prazo, possibilitando a flexibilização justificada da duração do processo de acordo com a complexidade do caso, número de acusados, número de vítimas, entre outros.
+
+2.1) Princípio da publicidade
+  Represente o dever que assiste ao Estado de atribuir transparência aos seus atos. No processo penal, esse princípio é minimizado, em que determinados atos processuais, audiências ou sessões serão públicas
+apenas para as partes e seus procuradores.
+
+2.2) Princípio da Verdade Real
+  Conhecida também como verdade material ou substâncial. Busca-se no processo penal a verdade real, ou seja, dentro das possibilidades que o juiz detém, deve-se buscar a verdade mais próxima possível sem violar
+direitos do acusado.
+
+2.3) Princípio da livre convicção ( persuasão racional )
+  A apreciação e a avaliação das provas produzidas e reunidas pelas partes indicando que o juiz deve formar livremente sua convicção
+
+2.4) Princípio do devido processo legal
+  Ninguém será privado de sua liberdade ou de seus bens sem que haja um processo legal que se resguarda direitos e garantias fundamentais
+
+2.5) Princípio da vedação da utilização das provas ilícitas
+  Em que pese buscado a verdade real, as provas ilícitas, em regra, não são aceitas e devem ser retiradas dos autos.
+
+2.6) Princípio da presunção da inocência ou da não culpabilidade
+
+  LVII - ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória; 
+
+  Significa que todo acusado é inocente até que seja declarado culpado com sentença transitada em julgado. O ônus da prova cabe a acusação e não a defesa. Confirma a excepcionalidade das medidas
+cautelares de prisão e evidencia entre outras medidas constritivas (restringindo) ao direito indívidual devem ser excepcionais.
+  Na dosemetria da pena, não podem ser considerados como maus antecendentes processos e inquéritos em andamento
+
+2.7) Principio da obrigatoriedade da motivação das decisões judiciais
+
+Art 93 - IX todos os julgamentos dos órgãos do Poder Judiciário serão públicos, e fundamentadas todas as decisões, sob pena de nulidade, podendo a lei limitar a presença, 
+em determinados atos, às próprias partes e a seus advogados, ou somente a estes, em casos nos quais a preservação do direito à intimidade do interessado no sigilo não prejudique
+o interesse público à informação; 
+
+  Garantindo as partes a possibilidade de impugnação dos atos judiciais
+
+2.8) Princípio da imparcialidade do juiz
+  A imparcialidade do juiz se constitui garantia de justiça para os dois lados em lítigio, sendo assim é imprescindível para que a relação processual se instale validamente e desenvolva de forma
+natural. Se suspeito ou impedido deve, assim, se declarar e os autos serão encaminhados ao seu substítuto
+
+2.9) Princípio da isonomia
+  As partes devem contar com as mesmas oportunidades e serem tratadas de forma igualitária conforme prevê o artigo 5, caput, da CF.
+
+3.0) Princípio do contraditório
+  Trata-se do direito assegurado às partes de se manifestarem havidos no processo. O contraditório é mitigado em determinadas situações: decretação em prisão preventiva, sequestro de bens, 
+interceptação telefônica, inquérito policial.
+
+3.1) Princípio do duplo grau de jurisdição
+  Caracteriza-se na interposição de recurso.
+
+3.2) Princípio do juiz natural
+  LIII - ninguém será processado nem sentenciado senão pela autoridade competente; 
+  Alcança o Juízo e o órgão competente. Um exemplo da violação desse princípio é o juiz de direito julgar réu com foro por prerrogativa.
+
+3.3) Princípio do promotor natural
+  Segue o mesmo fundamento constitucional do juiz natural.
+
+
+      
+
