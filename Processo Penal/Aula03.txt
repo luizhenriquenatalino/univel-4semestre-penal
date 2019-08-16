@@ -2,3 +2,29 @@
 
 3.1 Interpretação e integração da norma penal
   Integração não existe lei (há lacuna) enquanto que na intepretação pressupõem a existência de lei.
+
+  Classificação da interpretação
+
+   -> Quanto ao autor que realiza
+
+    a) Autêntica ( o próprio legislador traz a interpretação. Ex.: funcionário público) | Contextual
+      É realizada pelo próprio texto legal
+
+    b) Doutrinário / Científica
+      Doutrina
+
+    c) Judicial / Jurisprudencial
+      Juizes - aplicadores dos direitos
+
+  -> Quanto aos meios
+  
+    a) Gramatica / Literal
+      O interprete se preocupa somente com o sentido real e efetivo das palavras 
+
+    b) Teleológico
+      Interprete busca alcançar a finalidade da lei aquilo ao qual ela se destinou regular 
+    
+    c) sistemática ou sistêmica
+      É aquela que será interpretada com todo o ordamento jurídico.
+
+    d) Histórica
