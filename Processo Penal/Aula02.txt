@@ -156,6 +156,31 @@ interceptação telefônica, inquérito policial.
 3.3) Princípio do promotor natural
   Segue o mesmo fundamento constitucional do juiz natural.
 
+3.4) Principio da ampla defesa
+  LV - aos litigantes, em processo judicial ou administrativo, e aos acusados em geral são assegurados o contraditório e ampla defesa, com os meios e recursos a ela inerentes; 
+  Previsto no artigo 5, LV, o réu no processo é considerado inocente parte hipossuficiente uma vez que o Estado é sempre mais forte. Assim, ao réu é concedido o direito de se valer
+de amplo e extensos métodos para se defender da imputação feita pela acusação.
+  Desdobram-se: direito à informação, necessidade de conhecimento pelo réu, dos atos dos processos para que possa se defender. Segundo, bilateralidade da audiencia, as partes
+  devem ser ouvidas pelo juiz no sentido de participarem do seu convencimento. Terceiro, direito à prova legalmente obtida ou produzida.
+  Mitigação desse princípio: rol de testemunha intempestivos, probição de exibição de documentos em juri sem prévia juntada aos autos.
+
+3.5) Princípio da obrigatoriedade
+  Os órgãos com incumbência da persecução penal (inquérito + ação penal) não possuem discricionariedade para agir ou não.
+
+3.6) Princípio do impulso oficial
+  O juiz de ofício ao encerrar cada etapa processual deve determinar que se passe para a seguinte sem que seja necessário ao requerimento das partes
+
+3.7) Principio da oficialidade
+  A função penal tem índole iminentemente pública, uma vez que a pretensão punitiva do Estado deve ser realizada por órgãos do Estado e, portanto, oficiais
+
+3.8) Principio da oralidade
+  Propicia a garantia de permitir a documentação mínima dos atos processuais, sendo registrados apenas aqueles atos essenciais
+
+3.9) Principio da identidade física do juiz.
+  Para que o julgamento seja considerado adequado, o juiz que presidiu a audiência de instrução deve ser o mesmo que irá proferir a sentença 
+
+4.0) Principio da instrumentalidade das formas 
+  Significa a obtenção do máximo resultado na atuação do direito com o mínimo possível de dispêndio encontrado em institutos - conexão e continência - em que há reunião do processo
 
       
 

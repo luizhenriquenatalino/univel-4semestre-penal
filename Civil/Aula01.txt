@@ -141,4 +141,48 @@ pelo segundo ao primeiro e garantindo lhe o adimplemento por meio de seu patrim�
     c) Vínculo Jurídico / Espiritual
         liame é o vínculo espiritual entre o sujeito credo - prestação - devedor.
 
+        Liame que liga os sujeitos
+
+schuld - debitum -> primeira parte do vínculo (deve pagar, direito de exigir)
+
+só existe, se o primeiro não for cumprido: 
+
+hoftung - obrigation -> segunda parte (responde com o seu patrimônio pela dívida)
+
+debitum sem obrigation => prescrição, jogos e apostas
+
+obrigation sem debitum => fiador
+
 - Diferença entre obrigação e responsabilidade
+
+- Princípios do Dto das obrigações 
+
+    a) autonomia privativa
+
+        O direito obrigacional parte do pressuposto que vc tem o direito de escolher se quer contratar, com quem quer contratar e de que forma quer contratar.
+        Ninguém pode ser impelido a contrar algo.
+
+        Pacta sunt servanda: é um brocardo latino que significa "os pactos assumidos devem ser respeitados" ou mesmo "os contratos assinados devem ser cumpridos". 
+        É um princípio-base do Direito Civil e do Direito Internacional, isto porque não se pode obrigar alguém a cumprir um contrato, no qual não é signatário.
+
+    b) liberdade de estipulação negocial
+
+
+
+    c) solidariedade social - art 421 CC
+
+    Art. 421.  A liberdade de contratar será exercida em razão e nos limites da função social do contrato, observado o disposto na Declaração de Direitos de Liberdade Econômica. 
+
+    d) boa-fé objetiva - art 422 CC
+
+    Art. 422. Os contratantes são obrigados a guardar, assim na conclusão do contrato, como em sua execução, os princípios de probidade e boa-fé.
+
+    e) proibição do enriquecimento sem causa - art 884 CC
+
+    Art. 884. Aquele que, sem justa causa, se enriquecer à custa de outrem, será obrigado a restituir o indevidamente auferido, feita a atualização dos valores monetários
+
+- Fontes das obrigações
+
+    a) imediata/primária = lei
+
+    b) mediata/secundária
