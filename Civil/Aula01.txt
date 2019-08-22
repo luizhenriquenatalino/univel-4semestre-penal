@@ -186,3 +186,42 @@ obrigation sem debitum => fiador
     a) imediata/primária = lei
 
     b) mediata/secundária
+        - São os fatos jurídico, que podem ser naturais (chuva, morte, terremotos,...) ou humanos (decorrente da ação humana)
+        - b.1) Contratos
+            Negócio jurídico bilateral ou plurilateral, originário de acordo de vontades, em conformidade com a lei, capaz de criar, modificar e extinguir direitos.
+
+        - b.2) Atos ilícitos e abuso de direito
+            É ato ilícito doloso, praticado com a intenção de causar dano a outrem ou culposo, involuntário, que se baseia não no dolo, mas na imprudência, negligência ou imperícia do
+            agente (art 186 CC). O abuso de direito (art, 187 CC) também coonstitui fonte de obrigação.
+
+        - b.3) Atos unilaterais
+            São as declarações unilaterias de vontade, como a promessa de recompensa, a gestão de negócios, o pagamento indevido e o enriquecimento sem causa.
+
+            b.3.1) Promessa de recompensa (ar 854 CC a 860 CC)
+
+            b.3.2) Gestão de negócios (arts 861 CC a 875 CC). É a administração de negócios alheios sem o conhecimento do dono. Assim, se recolho a correspondência do vizinhos em viagem, sem qualquer
+            combinação prévia, serei gestor de negócio. Se em meio à correspondência descubro uma conta vicenda e pago, farei jus ao reembolso.
+        
+            b.3.4) Enriquecimento sem causa (arts 884 cc a 886 cc) 
+
+        - b.4) Títulos de crédito (art 887 a 926 CC)
+
+
+1 - "Res Perit Domino" = O prejuízo é do dono da coisa.
+
+2 - O domínio das coisas não se transfere pelo contrato, mas pela da tradição. Art 1267.
+
+    Imóvel é transferido por meio da matricula.
+
+3 -  O acessório segue o principal (CC, arts. 94, 233, 287, 364, 1209, 1255)
+
+4 - Proibição ddo "aliud pro alio" = uma coisa no lugar de outro. art 313
+
+5 - "Ad impossibilia, nulla obligation" = ver - art. 166, II; e art. 106.
+    impossibilidade absoluta - física e jurídica
+
+6 - Não havendo culpa, não há perdas e danos. Art 393.
+
+7 - Havendo culpa, há perdas e danos. art 392.
+
+8 - Se faltar justo causa para pagamento para pagamento, este deverá ser restituído. art 884 e 885 "status quo antes"
