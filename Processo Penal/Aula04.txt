@@ -1,0 +1,45 @@
+INQUÉRITO POLICIAL
+
+  -> Procedimento Administrativo
+  -> Não tem contradiório e ampladefesa. É inquisitivo.
+  -> Colher provas para ilucidar a autoria e materialidade.
+
+1. Policia
+  O Papel da polícia pode ser dividido em: 
+    a) Polícia Administrativa ou de segurança de caráter preventivo que visa com seu papel ostensivo impedir a ocorrência de infrações.
+      Ex.: Polícia Militar.
+    b) Polícia Judiciária de atuação reprenssiva que age após a ocorrência de infrações visando angariar elementos para apuração da autoria e da materialidade. Trata-se
+    da polícia civil e federal.
+
+2. Conceito
+  É procedimento administrativo, inquisitório e preparatório, presidido pela autoridade policial consistente em um conjunto de diligências, objetivando a identificação das
+fontes de prova e a colheita de elementos de informações quanto à autoria e materialidade a fim de possibilitar que o titular da ação penal possa ingressar em juízo.
+
+  -> Termo circunstanciado - Lei 9099/95
+    Utilizado apenas as infrações de menor potencial ofensivo (contravenções e crimes - pena máxima não seja superior a 2 anos)
+
+3. Natureza jurídica
+  Procedimento administrativo, pois dele não resulta a imposição direta de nenhuma sanção, portanto, eventuais vícios constantes no inquérito não contaminam o processo a que deram
+origem, salvo nos casos de prova ilícita.
+
+4. Finalidade do IP
+  Visa à colheta de elementos informativos para apurar a existência de um crime(materialidade) e a respectiva autoria a fim de que o titular da ação penal, disponha de elementos que
+autorizem a sua promoção.
+  Elementos informativos são diferentes de provas. O primeiro é colhido na fase inquisitorial sem a observância do contraditório de ampla defesa, já as provas são produzidas
+na fase judicial com a observância dos dois princípios
+
+5. Inquéritos extrapoliciais
+  
+  a) Inquérito policial militar
+    Investigações realizadas pelas autoridades militares para apurar a existência de crimes da alçada da justiça militar. 
+
+  b) Comissões parlamentares de inquérito (CPI). Lei 1579/52
+    Tem o poder de determinar quebra de sigilo bancário, fiscal e telefônico. Não podem determinar busca e apreensão domiciliar nem decretar prisão preventiva.
+
+  c) Inquérito Civil
+    Criado pela lei 7347/85 é presidido pelo MP e tem por objetivo colher elementos para propositura da ação civil pública por responsabilidade por danos causados ao 
+  meio ambiente, consumidor, bens e direitos artísticos, estéticos, turísticos e paisagísticos.
+
+  d) Procedimento investigatório criminal
+    Investigação a cargo do MP, a este não cabe a presidência do inquérito, uma vez que a constituição apontou ser atribuição da autoridade policial. No entanto, não é
+  ilegal promotor instaurar procedimento administrativo para fins de colheita de material probatório.

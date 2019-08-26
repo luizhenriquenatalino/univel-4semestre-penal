@@ -1,0 +1,61 @@
+Remição -> Cômputo dos dias de trabalho e de estudo na pena privativa.
+  Computa-se como pena cumprida.
+
+  Ex. Pena de 25 anos, réu primário,  2/5 de 25 = 10.  1 ano de remição -> ou seja, já cumpriu um ano dos 10.
+
+  -> Acontece no regime fechado e no semiaberto.
+  -> Trabalho interno (regime fechado) e trabalho externo(semiaberto)
+  -> Estudo (regime fechado) e semiaberto
+
+  Art 126 da LEP -> Remição:
+      a) Pelo Trabalho
+      b) Pelo estudo (lei 12433 de 29)
+
+  Pelo trabalho -> para cada 3 dias trabalhado, computa-se 01 dia de pena cumprida.
+  Pelo estudo -> para cada 12 h de estudo (divididas no mínimo em 3 dias), computa-se 01 dia de pena cumprida.
+  Pode se dar cumulativamente a remição pelo trabalho e pelo estudo.
+
+  -> Regras do trabalho: art 29 da LEP.
+  -> Se ocorrer um acidente de trabalho que impede o trabalho e o estudo, o detento continuará recebendo remição. art 126, $4
+  -> Cabe também ao preso provisório.
+  -> Falta grave acarreta na perda de até 1/3 dos dias remidos (revogam-se)
+  -> Tem os benefícios do INSS, não se sujeita à CLT.
+  -> Pelo estudo, tem-se a remição com o ensino fundamental, médio, profissionalizante ou superio; ou ainda requalificação profissional.
+  -> Estudo presencial ou à distância, certificado. art 126, $2 da LEP
+  -> Conclusão de ensino fundamental, médio, supeior gera um bônus de 1/3
+      Ex. 360 h em 90 dias
+
+    p/ o trabalho
+    Sujeito preso por 120 dias -> 120 / 3 = 40
+    Logo computa-se 120 + 40 = 160
+
+    p/ o estudo
+
+    curso técnico de 360 horas = 360 / 12 = 30 dias.
+
+    Bônus. Caso o curso complete o ensino médio usa um 1/3. ou seja, 30 / 1/3 = 10
+
+    totalizando 200 horas (40 + 30 + 10)
+    
+Remição pela leitura.
+  Lei estadual n. 17329/2012
+
+  O Conselho nacional de justiça propôs a instituição, nos presídios estaduais e federais, de projetos específicos de incentivo à remição pela leitura.
+  
+  -> O preso pode remir, por meio da leitura, 48 dias de sua pena, por meio de resenhas de obras literárias disponíveis na unidade prisional.
+  O texto define que o preso tem 30 dias p leitura e resenha e que poderá remir 4 dias ao mês. Se houver suspeita de plágio, o juiz pode realizar a arguição oral.
+  
+  Sabendo-se que um sujeito, durante o cumprimento de pena privativa de liberdade, trabalhou 8 horas diárias, num período de 1440 dias, que leu 8 livros obtendo nota
+  mínima (60) pelas resenhas e frequentou curso de 720 h. Aponte os dias de remição a que terá direitos, sabendo-se, ainda que com as horas de estudo concluiu o ensino fundamental.
+
+  1) 1440 / 3 = 480
+  2) 8 * 4 = 32
+  3) 720 / 12 = 60
+  4) 60 + 1/3 = 20
+
+  total = 480 + 32 + 60 + 20 = 592 dias
+
+
+Direito do preso.
+  Ler e anotar direitos (pelo menos 10).
+  Art V 1 da Lep, 38 a 41, 12 a 14, 41, X da lep, 86, $3 da lep.

@@ -225,3 +225,37 @@ obrigation sem debitum => fiador
 7 - Havendo culpa, há perdas e danos. art 392.
 
 8 - Se faltar justo causa para pagamento para pagamento, este deverá ser restituído. art 884 e 885 "status quo antes"
+
+- Obrigações em relação ao vínculo jurídico
+
+    a) Perfeitas - Obrigação Civil
+    b) Imperfeitas 
+        b.1) Obrigação Moral 
+            Existe o dever de respeitar aquela norma criada pelo contexto social em que se vive, porém não há uma sujeição patrimonial.
+        b.2) Obrigação Natural.
+            É aquela em que o credor não pode exigir do devedor certa prestação, embora em caso de seu adimplemento espontâneo ou voluntário possa rete-la a título de pagamento e
+            não de liberalidade.
+            Ex.: Dívida prescrita. O devedor paga uma dívida prescrita, o credor pode reter.
+            Ex.: Jogo e aposta (814 CC)
+            Ex.: Empréstimo para o menor de idade
+
+- Obrigações quanto ao Objeto:
+    a) Especificas (individualizado)
+        São aquelas que a coisa já é certa.
+        O devedor sabe exatamente o objeto que tem que entregar. O credor sabe exatamente o que vai receber.
+        Ex. Venda de um Carro.
+    b) Genéricas (qtidade e gênero) - coisa incerta
+        O Credor não sabe o objeto. 
+        Não pode ser indeterminada.
+
+
+- Obrigações
+    a) Positivas (dar, fazer)
+    b) Negativas (não fazer)
+
+- Obrigação de Dar (art 233 e seguintes) - Coisa móvel ou imóvel
+    - dar / restituir 
+    - pagar em dinheiro
+    - coisa certa 
+
+- Obrigação de dar coisa certa.
