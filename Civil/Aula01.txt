@@ -259,3 +259,59 @@ obrigation sem debitum => fiador
     - coisa certa 
 
 - Obrigação de dar coisa certa.
+
+        Art. 233. A obrigação de dar coisa certa abrange os acessórios dela embora não mencionados, salvo se o contrário resultar do título ou das circunstâncias do caso.
+
+        -> Perda/perecimento da coisa (significa que a coisa não pode ser entregue.)
+        (art 234, 1 parte)         * Sem culpa do devedor (Resolve-se! volta o estado - desfaz)
+        (art 234, 2 parte)         * Com culpa do devedor (Equivalente + perda e danos {material, lucro cessante, dano moral})
+
+
+
+        Art. 234. Se, no caso do artigo antecedente, a coisa se perder, sem culpa do devedor, antes da tradição, ou pendente a condição suspensiva, 
+        fica resolvida a obrigação para ambas as partes; se a perda resultar de culpa do devedor, responderá este pelo equivalente e mais perdas e danos.
+
+        -> Deterioração da coisa (a coisa existe, pode ser entregue, porém com uma diminuição em algum aspecto)
+                * Sem culpa do devedor (resolve-se! volta o estado - desfaz - ou aceitar a coisa, abatido de seu preço o valor que perdeu)
+                    Art. 235. Deteriorada a coisa, não sendo o devedor culpado, poderá o credor resolver a obrigação, ou aceitar a coisa, abatido de seu preço o valor que perdeu.
+                * com culpa do devedor ()  
+                    Art. 236. Sendo culpado o devedor, poderá o credor exigir o equivalente, ou aceitar a coisa no estado em que se acha, com direito a reclamar,
+                    em um ou em outro caso, indenização das perdas e danos
+
+        -> Melhoramentos e acrescidos
+            Ex.: Venda de uma vaca, porém ao entregar descobre que ela está com um bizerro 
+
+            Art. 237. Até a tradição pertence ao devedor a coisa, com os seus melhoramentos e acrescidos, pelos quais poderá exigir aumento no preço; se o credor não anuir,
+            poderá o devedor resolver a obrigação.
+
+        -> Frutos
+
+        Art 237 - Parágrafo único. Os frutos percebidos são do devedor, cabendo ao credor os pendentes.
+
+- Obrigação de restituir (art 238 e seguintes)
+
+        - Perda da coisa
+            * Sem culpa do devedor (Resolve-se)
+                Art. 238. Se a obrigação for de restituir coisa certa, e esta, sem culpa do devedor, 
+                    se perder antes da tradição, sofrerá o credor a perda, e a obrigação se resolverá, ressalvados os seus direitos até o dia da perda.
+
+            * com culpa do devedor
+                Art. 239. Se a coisa se perder por culpa do devedor, responderá este pelo equivalente, mais perdas e danos.
+
+        - Deterioação 
+            * Sem culpa
+                Art. 240. Se a coisa restituível se deteriorar sem culpa do devedor, recebê-la-á o credor,
+                    tal qual se ache, sem direito a indenização; 
+
+            * com culpa
+                Art 240, se por culpa do devedor, observar-se-á o disposto no art. 239.
+
+                Conforme Deise, deve-se usar o artigo 236.
+
+                     Art. 236. Sendo culpado o devedor, poderá o credor exigir o equivalente, ou aceitar a coisa no estado em que se acha, com direito a reclamar,
+                    em um ou em outro caso, indenização das perdas e danos
+
+
+        - Melhoramentos / Acréscimos
+            * Sem despesa ou trabalho do devedor
+            * com despesa ou trabalho do devedor

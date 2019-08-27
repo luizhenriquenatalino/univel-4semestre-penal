@@ -1,0 +1,69 @@
+-> Improcedência da liminar
+-> Indeferimento da petição inicial
+
+-- Nesses casos acima não há necessidade de citação. Exceção.
+
+-> Efeitos da citação
+  * Induz litispendência
+    Significa ação instaurada. Ou seja, houve ajuizamento da ação e o réu foi citado. 
+
+  * Torna o objeto litigioso: Discutido
+
+  * Constitui em mora (penalidade pelo atraso)
+    Salvo exceções: 
+    Efeito que a citação pode gerar.
+
+  Obs: Prevenção: (Juiz que teve o primeiro registro e distribuição)
+
+-> Interrupção da prescrição, (também vale para outros prazos)
+
+  * Despacho que ordena a citação
+  * Não responde pela demora judicial.
+  * Retroage à data da propositura
+
+  Obs.: Prazo de 10 dias diligências
+
+  Ex.: Prazo prescricional de 3 anos.
+
+    Ajuízou a petição inicial 5 dias antes. ----------(pode levar 3 meses)----------------Juíz ordena (momento da interrupção)------------------------------------  (citação)
+
+    Pode ser que o juiz peça para emendar a Petição inicial, se fizer tudo certo, retroage a data da propositura (ajuízou a ação).
+
+
+-> Pessoalidade
+  * Exceções (representante / curador) - cita essas pessoas.
+      Ou mandatário / administrador
+
+    * União, E, DF, Município, Autarquias -> Advogado recebe a citação.
+
+-> Lugar
+  * Exceções: Não cita:  1) pessoa que está participando de ato religioso
+                         2) pessoa que está em Luto. 7 dias.-> até o 2 grau.
+                         3) noivos: 3 dias
+                         4) doente grave  
+                              4.1) Mentalmente incapaz
+                              4.2) Impossibilitado
+
+                              Caso o Oficial de justiça cite um doente grave, deverá comunicar o Juiz. O juíz solicita o médico. É feito o laudo atestando essa situação. Depois é feita a citação do curador.
+
+6.1) Espécies
+  a) Correio (art 247 e 248)
+      Obs1: Não se exige o AR MP (mãos próprias)
+      obs2: Não existe carta precatória para citação pelo correio.
+
+      Quando não usa pelo correio?
+        I - nas ações de estado (Ex. Estado civil - divórcio, alimentos), observado o disposto no art. 695, § 3º ;
+        II - quando o citando for incapaz;
+        III - quando o citando for pessoa de direito público;
+        IV - quando o citando residir em local não atendido pela entrega domiciliar de correspondência;
+        V - quando o autor, justificadamente, a requerer de outra forma.
+          
+          O Escrião além dessa carta de citação, ele vai encaminhar a cópia da petição incial, eventuais despachos e decisões - salvo ações de familía.
+
+    -> Pessoa jurídica. Cita o gerente, sócio administrador, sócio proprietário
+
+    -> Condomínio: Edifícios: Entrega para o porteirio. Pode recursar (ex. não mora ali)
+
+    -> Pessoa física.
+      Qualquer um?
+      Em regra, o juíz aceita da pessoa com o mesmo sobrenome (patronímico)
