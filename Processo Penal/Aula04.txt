@@ -43,3 +43,67 @@ na fase judicial com a observância dos dois princípios
   d) Procedimento investigatório criminal
     Investigação a cargo do MP, a este não cabe a presidência do inquérito, uma vez que a constituição apontou ser atribuição da autoridade policial. No entanto, não é
   ilegal promotor instaurar procedimento administrativo para fins de colheita de material probatório.
+
+6. Competência (Atribuição)
+
+  Distribuição de atribuições é feita em razão do local onde se consumou a infração, ou seja, será atribuição do delegado de policia que exerce a sua atribuição na circunscrição
+onde o crime se consumou. Contudo não obsta que a distribuição também seja feita em razão da matéria (leva-se em conta a natureza da infração) são os exemplos das delegacias
+especializadas. A divisão também pode levar em consideração a circunstâncias da vítima (delegacia do idoso).
+
+7. Dispensabilidade
+
+  O inquérito é peça meramente informativa em que se apura a infração penal e as suas circunstâncias. Assim, se o titular da ação penal tiver em mãos as informações necessárias,
+o inquérito se torna dispensável. A única coisa que não se admite é a propositura da ação sem o indispensável suporte fático.
+
+8. Características
+  a) Escrito
+    Não se concebe a existência de um inquérito oral (art 9 do CPP). Dentro de uma interpretação progressiva da lei e visando melhor finalidade do ato, admite-se a produção de prova 
+  por meio do sistema de audio-visual.
+
+  b) Dispensável
+
+  c) Sigiloso
+    O Principio da publicidade não se harmoniza com o inquérito (art 20 do cpp). A regra é o sigilo, mas em alguns casos pode se usar da publicidade como forma de auxiliar as 
+  investigações. Não se opõe ao sigilo: 
+                                        juiz (acesso amplo),
+                                        MP (acesso amplo),
+                                        advogado (garantido o acesso das diligências já concluídas) - Súmula vinculante 14.
+
+  d) Inquisitivo
+    Nâo observância do contraditório e da ampla defesa, sendo que esses princípios somente serão aplicados com início da ação penal. O MP intervendo no inquérito como
+    "Custom legis" - fiscal da lei
+
+  e) Procedimento discricionário.
+    O inquérito deve ser conduzido de forma discricionária pela autoridade policial que deve orientar o rumo das investigações de acordo com as peculiariedades do caso
+  concreto. As diligências estão previstar (art 6 e 7 do CPP)
+
+  f) Procedimento indisponível 
+    Delegado não pode determinar o arquivamento do inquérito, sendo que quem requer é o MP com a autorização do judiciário (art 17 do CPP)
+
+  g) Procedimento temporário
+    Réu preso -> 10 dias.
+    Réu solto -> 30 dias.
+
+    O prazo pode ser prorrogado havendo divergência quanto a essa possibilidade nos casos do investigado preso.
+
+  h) Oficiosidade
+    Havendo crime de ação penal pública, o delegado deve agir de ofício. Já nos crimes de ação penal pública condicionada e penal privada, a persecução penal depende da 
+    autorização da vítima ou de seu representante legal.
+
+  i) Notitia criminis
+    É o conhecimento espontâneo ou provocado por parte da autoridade policial acerca de um fato delituoso.
+
+      a) NC cognição imediata.
+        É quando a autoridade policial toma conhecimento do fato ilícito por meio das suas atividades rotineiras por meio do jornal, policiais.
+
+      b) NC cognição mediata  -> requisição Juiz/MP
+                              -> Requerimento da vítima.
+                              -> Delação (art5, $3, CPP)
+                              -> Requisição do ministro da justiça
+
+      c) NC cognição coercitiva
+        No caso de prisão em flagrante.
+
+      d) Delação apócrifa ou notita criminis inqualificada.
+        É a chamada denúncia anônima. STF e STJ têm admitido a denúncia anônima quando acompanhada de diligências preliminares que atestam a verossimilhança dos fatos fatos
+        noticiários.
