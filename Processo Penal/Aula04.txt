@@ -107,3 +107,57 @@ o inquérito se torna dispensável. A única coisa que não se admite é a propo
       d) Delação apócrifa ou notita criminis inqualificada.
         É a chamada denúncia anônima. STF e STJ têm admitido a denúncia anônima quando acompanhada de diligências preliminares que atestam a verossimilhança dos fatos fatos
         noticiários.
+
+10) Instauração do inquérito policial
+
+  10.1) Ação penal pública incondicionada
+    Art 5 Cpp. 
+
+     I) De ofício (congnição imediata)
+
+    II) Requisição do MP ou Juiz
+      A requisição é uma exigência legal da qual a autoridade policial não pode deixar de atender, desde que contenha o mínimo indispensável para permitir a investigação.
+      A maioria doutrina acredita que a requisição por parte do juiz viola o sistema acusatório bem como a imparcialidade. Assim o correto seria que enquanto o juiz tomasse conhececimento
+      de um fato delituoso e encaminha-se as peças de informação ao MP para que tomasse as providências
+    
+    III) Requerimento legal | representação do ofendido
+       O requerimento deve seguir o que está previsto no art 5, $1, a,b,c do CPP. A lei permite o indeferimento deste requerimento e cabe recurso ao delegado geral conforme o 
+       art 5, $2, do CPP. Pode ainda o requerente solicitar reconsideração do despacho que indeferiu para a autoridade policial. 
+        A autoridade poderá indeferir nos seguintes casos:
+          * Extinta a punibilidade
+          * Requerimento sem elementos mínimos
+          * Requerimento dirigido à autoridade sem competência
+          * Fato atípico
+          * Requerente incapaz
+
+    IV) Delação - art5, $3, CPP
+
+    V) Prisão em flagrante.
+      Peças que inauguram o inquérito: PORTARIA E AUTO DE PRISÃO EM FLAGRANTE
+        Obs.: A portaria tem que estar relacionada a origem. Ex. de ofício.
+
+  10.2) Ação penal pública condicionada (art 5, $4 CPP)
+    * Representação do ofendido / representante legal
+    * Requisição do ministro da justiça
+
+    Nestes casos, a autoridade policial não poderá instaurar de ofício. A representação é a manifestação de vontade da vítima ou de seu representante no sentindo de permitir que o Estado
+    desenvolva a atividade tendente à investigação de um crime. O Direito de representar deve ser exercido no prazo de 6 meses a contar da data em que se sabe quem é o autor da infração.
+    Trata-se de prazo decandencial (não sujeito a causas interruptivas e suspensivas) e do seu não exercicío gera a extinção da punibilidade pela decadência.
+    Exemplo de situações em que cabe a requisição do ministro da justiça:
+      * Crimes contra a honra do presidente da república,
+      * Crimes Contra a honra de chefe de governo estrangeiro,
+      * Crimes de ministro de Estado.
+
+
+  10.3) Ação penal privada (art 5, $5 CPP)
+    Nesses crimes a autoridade policial somente poderá proceder a abertura do inquérito mediante requerimento da vítima ou representante legal. Nesses casos não cabem atuação de ofício nem mediante
+    requisição deo juiz ou do MP. No caso de morte ou ausência judicialmente declarada, aplica-se o artigo 51 do CPP.
+
+    Qual prazo para instaurar o inquérito?
+    Considerando que ofendido possui 6 meses para oferecer a queixa a partir da data em que souber quem é o autor do crime, conclui-se que o inquérito tem que ser instaurado antes de completar o prazo
+    legal
+
+
+    Ação penal 
+      a) Pública {incondicionada (regra), condicionada (precisa da representação)}
+      b) privada (queixa)

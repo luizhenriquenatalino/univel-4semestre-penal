@@ -1,0 +1,51 @@
+Penas Restritivas de direitos
+
+* Todas se sujeitam ao regime jurídico dos art 44 a 48 cp.
+
+Prestação pecuniária (art 45, $1)
+Prestação Inominada (art 45, $2) (pagar em soja)
+Perda de bens e valores (art 45, $3)
+Prestação de serviços à comunicade (art 46)
+Interdição temporária de direitos (art 47)
+Limitação de fim de semana (art 48)
+
+São classificadas em { Genéricas, expecíficas}
+
+Caracteres das penas restritivas de direitos 
+  * Autonomia
+  * Substitutividade - Exceto 302 e 303 do CTB
+  * Conversibilidade em prisão
+
+Duração: Tem o mesmo tempo de duração da privativa de liberdade de substituída, exceto a pecuniária e a perda de bens e valores
+  * A prestação de serviços à comunidade admite cumprimento em tempo menor.
+
+  Requisitos para a substituição (art 44 CP)
+    * Se culposo 
+        1) Qualquer pena
+        2) Art 59 favorável
+
+    * Se doloso
+        1) Pena diminuída ou = 4 anos (o total delas)
+        2) Sem violência ou grave ameaça à pessoa (Exceção: ameaça, constrangimento ilegal, lesão corporal leve - juízado especial. Pena não passa de 2 anos) 
+        3) Não reincidente em crime doloso nem preterdoloso, exceto se medida recomendável e não for específica.
+        -> circunstâncias art 59 favorável.
+
+
+Substituição.
+  * Se a pena fixada for menor ou igual a 1 ano {uma restritiva ou multa}
+  * Se a pena fixada for maior do que 1 ano {duas restritivas ou uma restritiva e multa}
+
+
+Espécies de penas restritivas
+
+Prestação pecuniária (art 45, $1)
+  Consiste no pagamento à vítima, seus dependentes ou entidade pública ou privada com destinação social.
+  Não pode ser menor do que um slário nem mais que 360 salários.
+  Uma eventual condenação na esfera cível é deduzida do valor pago a título de prestação pecuniária, se coincidente o beneficiário.
+
+-> Critérios p/ determinar o quantum: prejuízo da vítima, situação econômica do réu e a sua culpabilidade
+
+-> Não se aplica nos crimes de violência doméstica ou familiar, por expressa determinação no art 16 da lei 11340/66
+
+art 45, $2 Inonimada
+Ex.:pagamento de cestas básicas, mão de obra, etc. Com concordância do beneficiário.
