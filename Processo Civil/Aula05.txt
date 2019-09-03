@@ -1,0 +1,77 @@
+7) Cartas: 260 à 268
+    -> Espécies
+        * Precatória: Quando estamos dentro do Brasil e diante de mesma hierarquia. Serve como cooperação entre juízes.
+        * Rogatória: Caráter internacional, quando alguém precisa da cooperação do Brasil ou o contrário.
+        * Ordem: Dentro do Brasil, porém hierárquia diferenciada. Ex.: Desembargador pedindo colaboração para o Juiz.
+        * Arbitral: Comunicação que existe entre o árbitro e o juiz (judiciário). 
+
+      Cartas servem para comunicação.
+      As cartas e os processos, em regra, são eletrônicas.
+
+    -> Itinerante
+      O juízo deprecante(quem envia) pode enviar a carta para outra localidade apenas comunicando o juízo deprecado(quem recebe).
+
+      Imagine a situação: O juiz deprecante pede ajuda para o juiz deprecado para citar um réu, ou seja, pedirá para o oficial de justiça daquele juízo para citá-lo. No
+      entanto, quando o oficial de justiça se dirige para citar o réu, não o encontra (foi informado que se mudou para outra cidade). Logo, o juiz deprecado (quem recebe)
+      poderá enviar automaticamente para a outra cidade sem a necessidade de devolver ao juiz deprecante. Em regra, faz o reenvio direto, apenas comunicado o juízo de origem (deprecante)
+
+    -> Requisitos
+      * Juízos (quem está mandando - deprecante. quem está recebendo - deprecado)
+      * Peças necessárias. 
+      * Prazo para cumprimento.
+
+    -> Transmissão
+      Deprecante (envia) para o deprecado (Entre eles deve existir uma comunicação - serve justamente para confirmar se recebeu - pode ser confirmado por telefone ou email)
+
+
+    -> poder haver recusa no cumprimento por parte do Juízo deprecado?
+      Apenas nas situações:
+        a) falta de requisitos (citado acima)
+        b) falta de competência ( juízo incompetente - deprecado)
+        c) falta de autenticidade
+
+    -> Cumprimentos
+      Existe um prazo de 10 dias para a devolução!
+        ** Ex.: Juíz de cascavel pede para o juíz de toledo cumprir, após o juízo deprecado cumprir a solicitação, deve estipular um prazo de 10 dias.
+
+8) Intimações: 269 à 275
+    -> Conceito:
+      É uma forma de se dar ciência a alguém dos atos e termos do processo.
+
+    -> Advogado pode intimar outro advogado (caso raro)
+
+    -> Despacho/Decisão
+      * Toda vez que intimar irá uma cópia da decisão ou despacho justamente para ter conhecimento da decisão/situação.
+
+    -> Adm Pública.
+      * As intimações são para os procuradores/advogados.
+
+    -> Advogados
+      * Em regra, os advogados que serão intimados.  
+        ** Pode ser intimado via sistema (eletrônica)
+        ** Fisicamente, pode ser intimado oelo diário da justiça
+    
+    -> Partes (autor ou réu)
+      * As partes, quando o juiz quiser falar com elas, deverá usar o meio tradicional [AR (correio), oficial de justiça - hora certa, edital.]
+
+      JUÍZADOS.: Já é permitido pelo What's
+
+    -> Requisitos
+      * Nome completo das partes e dos advogados.
+      * Número da OAB, em regra, sem abreviaturas.
+
+    -> Retira do processo (Carga)
+      * Intimação automática
+      * Possibilidade de fazer um credenciamento.
+        Ou seja, autorizar alguém a fazer retirada no lugar do advogado.
+
+    -> Alegação da nulidade
+      1) Preliminar do próprio ato
+          Ex.: A intimação foi para outro advogado com prazo de 10 dias para apresentar testemunhas. 
+            Nesse caso o advogado prejudicado faz uma preliminar dizendo que por existir nulidade no ato, a sua resposta poderá ser recebida mesmo fora do prazo. (tempestivo)
+            Ou seja, o negócio é nulo, logo quero outro prazo.
+
+      2) Só alegar a nulidade
+          
+    -> endereço: (residência / domicílio)
+      * O juiz envia para o endereço que consta no processo. Ou seja, se o juiz enviar para o endereço e a parte (réu ou autor) se mudou, mesmo assim valerá a intimação, pois está no processo.

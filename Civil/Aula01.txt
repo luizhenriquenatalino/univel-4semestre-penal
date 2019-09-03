@@ -298,7 +298,7 @@ obrigation sem debitum => fiador
             * com culpa do devedor
                 Art. 239. Se a coisa se perder por culpa do devedor, responderá este pelo equivalente, mais perdas e danos.
 
-        - Deterioação 
+        - Deterioração 
             * Sem culpa
                 Art. 240. Se a coisa restituível se deteriorar sem culpa do devedor, recebê-la-á o credor,
                     tal qual se ache, sem direito a indenização; 
