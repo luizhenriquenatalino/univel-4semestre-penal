@@ -161,3 +161,57 @@ o inquérito se torna dispensável. A única coisa que não se admite é a propo
     Ação penal 
       a) Pública {incondicionada (regra), condicionada (precisa da representação)}
       b) privada (queixa)
+
+  11) Incomunicabilidade
+
+  Art. 21.  A incomunicabilidade do indiciado dependerá sempre de despacho nos autos e somente será permitida quando o interesse da sociedade ou a conveniência da investigação o exigir.
+  Parágrafo único. A incomunicabilidade, que não excederá de três dias, será decretada por despacho fundamentado do Juiz, a requerimento da autoridade policial,
+    ou do órgão do Ministério Público
+
+  Apesar de prevista a incomunicabilidade do preso no artigo 21 e p.único do cpp, a maioria doutrinária entende que este artigo não foi recepcionado pela CF por duas razões:
+    a) A constituição assegura ao preso a assistência da família e de um advogado
+    b) CF veda a incomunicabilidade do preso no estado de defesa.
+
+
+  12) Indiciamento
+    12.1) Conceito
+      Indiciar é atribuir a alguém a autoria ou participação em determinada infração penal.
+
+      1) Momento é chamado de -> suspeito / investigado
+      2) momento é chamado de -> indiciado
+      3) momento - depois da denúncia -> acusado/denunciado
+      4) momento - depois da sentença -> réu / condenado
+
+    12.2) Pressupostos para indiciamento
+      1) Elemento informativo quanto à autoria e materialidade do delito
+      2) Classificação da conduta delituosa
+      3) Despacho fundamentado da autoridade policial
+
+    12.3) Momento
+      Pode ser feito a partir do início das investigações até o momento ulterior ao início do processo.
+    
+  13) Providências (art 6)
+
+
+    I - O exame do local do crime é de valor inestimável na elucidação das infrações e descoberta da autoria. Todavia quando se tratar de acidente automobilístico, aplica-se o disposto no artigo 1 da lei 5970/73
+    que exclui a aplicação do inciso primeiro.
+
+    II - Após a liberação feita por perito, a autoridade policial deverá aprender todos os objetos e instrumentos que se relacionam com o fato. 
+
+    A apreensão dos objetos que interessarem a prova pode ser realizadas na própria cena do crime do domicílio ou da própria pessoa. A busca pessoal pode ser realizada com ou sem mandado se
+    a autoridade realizar a diligência não haverá necessidade de mandado, assim como nos casos em que a busca ocorrer durante a diligência familiar no caso de prisão ou quando houver fundada
+    suspeita de que a pessoa esteja na posse de arma, objetos ou papéis que constitui o corpo do delito.
+
+    III - colher todas as provas que servirem para o esclarecimento do fato e suas circunstâncias;
+
+    IV - A palavra do ofendido apresenta valor probatório relativo em face de seu interesse jurídico material, contudo a palavra se reveste de extrema importância nos casos dos crimes sexuais, uma
+    vez que são obtidos longe dos olhares de testemunhas.
+
+    V - O interrogatório deve seguir a regra do art 185 e seguintes do CPP, bem como deve ser asseguradas as suas garantias constitucionais
+
+    VI - O reconhecimento de coisas e pessoas deve seguir as regras dos artigos 226 a 228 do cpp.
+      Poderá ser feita acariação sobre fatos ou circunstâncias relevantes.
+    
+    VII - Se houver a necessidade de proceder exame do corpo do delito deverá seguir as normas do artigo 158 a 184 do cpp. Procede-se o exame toda vez que a infração deixar vestígios.
+      Por isso corpo de delito é o conjunto dos vistígios materiais deixados pelo crime. Ex. cadaver, janela do carro quebrada. 
+      Obs.: Reprodução simulada. Para verificar a possibilidade da infração ter sido praticada de determinada forma, procede-se a reprodução simulada dos fatos 

@@ -312,6 +312,59 @@ obrigation sem debitum => fiador
                     em um ou em outro caso, indenização das perdas e danos
 
 
-        - Melhoramentos / Acréscimos
-            * Sem despesa ou trabalho do devedor
-            * com despesa ou trabalho do devedor
+        - Melhoramento ou Aumento
+            * Sem despesa ou trabalho do devedor (art 241)
+                Ex. Poço artesiano instalado pela prefeitura em uma fazenda sem anuência do proprietário. Nesse caso o proprietário lucra (credor)
+                Art. 241. Se, no caso do art. 238, sobrevier melhoramento ou acréscimo à coisa, sem despesa ou trabalho do devedor, lucrará o credor, desobrigado de indenização.
+
+            * com despesa ou trabalho do devedor (art 242)
+
+                Art. 242. Se para o melhoramento, ou aumento, empregou o devedor trabalho ou dispêndio, o caso se regulará pelas normas deste Código atinentes às benfeitorias realizadas pelo
+                possuidor de boa-fé ou de má-fé.
+                Parágrafo único. Quanto aos frutos percebidos, observar-se-á, do mesmo modo, o disposto neste Código, acerca do possuidor de boa-fé ou de má-fé.
+
+                má-fé = aquele que está de posse sem autorização do proprietário
+                boa-fé = aquele que tem anuência/autorizaço do proprietário.
+
+                Art 1219 a 1222cc
+
+                Possuidor de boa-fé
+                    * Indenizado {benfeitorias necessárias e úteis}
+                    * Levantar as benfeitoria voluntária
+                    * Dto de retenção.
+
+                Possuidor de ma-fé 
+                    Ex. Invasão de uma fazenda e os invasores fazem algumas benfeitorias necessárias para preservar o bem, nesse caso, no ato da reintegração de posso terá direito às benfeitorias necessárias.
+                    * Indenização benfeitoria necessárias (vedação ao enriquecimento sem causa)
+                    * NÃO TEM DIREITO ÀS BENFEITORIAS ÚTEIS, VOLUPTUÁRIAS, DTO DE RETENÇÃO.
+
+
+        - Frutos (art 242, pÚnico)
+
+            Art 242. Parágrafo único. Quanto aos frutos percebidos, observar-se-á, do mesmo modo, o disposto neste Código, acerca do possuidor de boa-fé ou de má-fé.
+
+            1214 a 1216
+
+            Art. 1.214. O possuidor de boa-fé tem direito, enquanto ela durar, aos frutos percebidos.
+
+            Parágrafo único. Os frutos pendentes ao tempo em que cessar a boa-fé devem ser restituídos, depois de deduzidas as despesas da produção e custeio;
+            devem ser também restituídos os frutos colhidos com antecipação.
+
+            Art. 1.215. Os frutos naturais e industriais reputam-se colhidos e percebidos, logo que são separados; os civis reputam-se percebidos dia por dia.
+            Art. 1.216. O possuidor de má-fé responde por todos os frutos colhidos e percebidos, bem como pelos que, por culpa sua, deixou de perceber,
+            desde o momento em que se constituiu de má-fé; tem direito às despesas da produção e custeio. (por conta da vedação ao enriquecimento sem causa)
+
+        - Obrigação de dar coisa incerta (art 243)
+
+            Devedor quem tem que entregar a coisa.
+            concentração = escolha
+
+            Art. 243. A coisa incerta será indicada, ao menos, pelo gênero e pela quantidade.
+            Art. 244. Nas coisas determinadas pelo gênero e pela quantidade, a escolha pertence ao devedor(quem tem que entregar a coisa),
+                se o contrário não resultar do título da obrigação; mas não poderá dar a coisa pior, nem será obrigado a prestar a melhor.
+            Art. 245. Cientificado da escolha o credor, vigorará o disposto na Seção antecedente.
+            Art. 246. Antes da escolha, não poderá o devedor alegar perda ou deterioração da coisa, ainda que por força maior ou caso fortuito.
+                A lei parte do pressuposto que gênero não perece. 
+                Exceto, se o gênero for limitado, ou seja, não há muitos (ex. vinho - safra do ano xxxx)
+            
+        
